@@ -46,6 +46,13 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=FelipeHaiashida&theme=github-dark-blue&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
