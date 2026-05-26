@@ -77,6 +77,7 @@
 | [🥽 Checklist Detran Moto VR](https://github.com/FelipeHaiashida/checklist_detran_moto) | Mini-game educativo em VR para Meta Quest sobre checklist de pré-pilotagem de moto | Unity 6, C#, OpenXR |
 | [🔍 logscope](https://github.com/FelipeHaiashida/logscope) | CLI tool para analisar logs HTTP e gerar relatórios | TypeScript |
 | [🌐 Portfólio](https://github.com/FelipeHaiashida/Portifolio_FelipeHaiashida) | Portfólio pessoal | HTML/CSS |
+| [📂 FileProcessor API](https://github.com/FelipeHaiashida/FileProcessorApi) | REST API para upload e processamento de arquivos CSV, JSON e Excel com paginação | C#, ASP.NET Core 9, SQLite, EF Core |
 
 ---
 
