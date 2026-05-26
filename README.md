@@ -75,7 +75,6 @@
 | [🌐 Portfólio](https://github.com/FelipeHaiashida/Portifolio_FelipeHaiashida) | Portfólio pessoal | HTML/CSS |
 | [📂 FileProcessor API](https://github.com/FelipeHaiashida/FileProcessorApi) | REST API para upload e processamento de arquivos CSV, JSON e Excel com paginação | C#, ASP.NET Core 9, SQLite, EF Core |
 
-
 ---
 
 <div align="center">
