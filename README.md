@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Olá%2C+sou+Felipe+Haiashida+👋;Fullstack+Developer;Unity+%26+VR+Developer;Transformando+ideias+em+código)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Olá%2C+sou+Felipe+Haiashida+👋;Fullstack+Developer;Unity+%26+VR+Developer;AI+Tools+Builder;Transformando+ideias+em+código)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=FelipeHaiashida&color=58a6ff&style=flat-square&label=Visitantes" alt="profile views"/>
 
@@ -36,6 +36,11 @@
 ![Meta Quest](https://img.shields.io/badge/Meta_Quest-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 ![OpenXR](https://img.shields.io/badge/OpenXR-FF2D55?style=for-the-badge&logo=openxr&logoColor=white)
 
+**AI & APIs**
+
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google Slides API](https://img.shields.io/badge/Google_Slides_API-FBBC04?style=for-the-badge&logo=googleslides&logoColor=black)
+
 ---
 
 ## 📊 GitHub Stats
@@ -57,9 +62,9 @@
 
 ## 🌱 Atualmente
 
+- 🤖 Construindo ferramentas com **IA generativa** (Gemini, Google APIs)
 - 🥽 Desenvolvendo experiências em **Unity + VR** para Meta Quest
 - 📚 Estudando arquiteturas de sistemas & Clean Code
-- 🔨 Construindo ferramentas CLI e projetos fullstack
 - 🌍 Explorando contribuições open source
 
 ---
@@ -68,10 +73,10 @@
 
 | Projeto | Descrição | Tecnologia |
 |---------|-----------|------------|
+| [🤖 Slider Maker AI](https://github.com/FelipeHaiashida/Slider-Maker-AI) | Gerador de apresentações no Google Slides com Gemini AI — descreva o tema e a IA cria os slides | Python · Gemini · Google Slides API |
 | [🥽 Checklist Detran Moto VR](https://github.com/FelipeHaiashida/checklist_detran_moto) | Mini-game educativo em VR para Meta Quest — checklist de pré-pilotagem de moto | Unity 6 · C# · OpenXR |
 | [🔍 logscope](https://github.com/FelipeHaiashida/logscope) | CLI tool para analisar logs HTTP e gerar relatórios | TypeScript |
 | [🌐 Portfólio](https://github.com/FelipeHaiashida/Portifolio_FelipeHaiashida) | Portfólio pessoal | HTML/CSS |
-| [🏛️ ProjetoAPS – Lab CC](https://github.com/FelipeHaiashida/ProjetoAPS-LabHistoriaCC-Site) | Site acadêmico — laboratório de história da computação | HTML |
 
 ---
 
