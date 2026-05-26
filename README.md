@@ -62,9 +62,9 @@
 
 ## 🌱 Atualmente
 
-- 🤖 Construindo ferramentas com **IA generativa** (Gemini, Google APIs)
-- 🥽 Desenvolvendo experiências em **Unity + VR** para Meta Quest
-- 📚 Estudando arquiteturas de sistemas & Clean Code
+- 🤖 Construindo ferramentas com IA generativa (Gemini, Google APIs)
+- 🥽 Desenvolvendo experiências em Unity + VR para Meta Quest
+- 📚 Estudando arquiteturas de sistemas e Clean Code
 - 🌍 Explorando contribuições open source
 
 ---
@@ -73,8 +73,8 @@
 
 | Projeto | Descrição | Tecnologia |
 |---------|-----------|------------|
-| [🤖 Slider Maker AI](https://github.com/FelipeHaiashida/Slider-Maker-AI) | Gerador de apresentações no Google Slides com Gemini AI — descreva o tema e a IA cria os slides | Python · Gemini · Google Slides API |
-| [🥽 Checklist Detran Moto VR](https://github.com/FelipeHaiashida/checklist_detran_moto) | Mini-game educativo em VR para Meta Quest — checklist de pré-pilotagem de moto | Unity 6 · C# · OpenXR |
+| [🤖 Slider Maker AI](https://github.com/FelipeHaiashida/Slider-Maker-AI) | Gerador de apresentações no Google Slides com Gemini AI. Descreva o tema e a IA cria os slides | Python, Gemini, Google Slides API |
+| [🥽 Checklist Detran Moto VR](https://github.com/FelipeHaiashida/checklist_detran_moto) | Mini-game educativo em VR para Meta Quest sobre checklist de pré-pilotagem de moto | Unity 6, C#, OpenXR |
 | [🔍 logscope](https://github.com/FelipeHaiashida/logscope) | CLI tool para analisar logs HTTP e gerar relatórios | TypeScript |
 | [🌐 Portfólio](https://github.com/FelipeHaiashida/Portifolio_FelipeHaiashida) | Portfólio pessoal | HTML/CSS |
 
