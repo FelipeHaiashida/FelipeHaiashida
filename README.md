@@ -82,18 +82,6 @@
 | [🌐 Portfólio](https://github.com/FelipeHaiashida/Portifolio_FelipeHaiashida) | Portfólio pessoal | HTML/CSS |
 | [📂 FileProcessor API](https://github.com/FelipeHaiashida/FileProcessorApi) | REST API para upload e processamento de arquivos CSV, JSON e Excel com paginação | C#, ASP.NET Core 9, SQLite, EF Core |
 
----
-
-<!-- Snake animation — gere em: https://github.com/Platane/snk -->
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FelipeHaiashida/FelipeHaiashida/output/dist/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FelipeHaiashida/FelipeHaiashida/output/dist/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/FelipeHaiashida/FelipeHaiashida/output/dist/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
 
 ---
 
